@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pandas==2.1.3
+sqlalchemy==2.0.23
+# sqlite3
+openai>=1.10.0
+langchain==0.1.0
+langchain-openai==0.0.5
+# chromadb==0.4.18  # Temporarily commented out due to build issues
+sentence-transformers==2.2.2
+numpy==1.26.4
+python-multipart==0.0.6
+pydantic==2.5.0
+python-dotenv==1.0.0
+streamlit==1.28.2
+asyncio-mqtt==0.13.0
+psutil==5.9.6
