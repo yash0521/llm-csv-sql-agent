@@ -1,0 +1,6 @@
+employee_id,name,department,salary,hire_date,performance_score
+1,John Doe,Engineering,75000,2022-01-15,4.2
+2,Jane Smith,Sales,65000,2021-06-20,4.5
+3,Bob Johnson,Marketing,58000,2023-03-10,3.8
+4,Alice Brown,Engineering,82000,2020-09-01,4.7
+5,Charlie Wilson,HR,55000,2022-11-30,4.0
